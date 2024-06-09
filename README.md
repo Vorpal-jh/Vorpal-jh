@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vorpal-jh
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning coding in general 
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 How to reach me on github or vorpaljs@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There is none on me 
